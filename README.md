@@ -8,8 +8,8 @@
 </ul>
 <h2 id="installation">Installation</h2>
 <ol style="list-style-type: decimal">
-<li>Download <code>Zed.edit.py</code> from this repository.</li>
-<li>Locate your Ren'Py SDK folder (e.g., <code>renpy-8.5.2-sdk/</code>).</li>
+<li>Download <code>Zed.edit.py</code> https://www.github.com/NeelPatra/RenPy-ZedEditor_Integration/releases/download/v1.0/Zed.edit.py</code> from this repository.</li>
+<li>Locate your Ren'Py SDK folder (e.g., <code>renpy-8.5.2-sdk/</code>). https://www.renpy.org/dl/8.5.2/renpy-8.5.2-sdk.zip</li>
 <li>Move <code>Zed.edit.py</code> into the <code>launcher/</code> directory: <code>renpy-8.5.2-sdk/launcher/Zed.edit.py</code></li>
 <li>Restart the Ren'Py Launcher.</li>
 <li>Go to <strong>Preferences &gt; Editor</strong> and select <strong>Zed</strong>.</li>
